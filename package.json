@@ -1,0 +1,21 @@
+{
+    "name": "superhuman",
+    "displayName": "superhuman",
+    "description": "A theme based on the email application Superhuman!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "superhuman vs-code theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/superhuman vs-code theme-color-theme.json"
+            }
+        ]
+    }
+}
