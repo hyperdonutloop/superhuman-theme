@@ -2,6 +2,7 @@
     "name": "superhuman",
     "displayName": "superhuman",
     "description": "A theme based on the email application Superhuman!",
+    "publisher": "ryan-renteria",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.42.0"
