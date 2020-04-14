@@ -1,7 +1,7 @@
 {
     "name": "superhuman",
-    "displayName": "superhuman",
-    "description": "A theme based on the email application Superhuman!",
+    "displayName": "Superhuman Theme",
+    "description": "A theme based on the email application Superhuman. Created by Ryan Renteria",
     "publisher": "ryan-renteria",
     "version": "0.0.1",
     "engines": {

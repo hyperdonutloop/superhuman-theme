@@ -1,10 +1,13 @@
-# README
-## This is the README for your extension "superhuman"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Superhuman Theme for VS Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# Installation
+
+1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
+2. Search for `Superhuman Theme` - find the one by **Ryan Renteria**
+3. Click **Install** to install it.
+4. Click **Reload** to reload the your editor
+5. Code > Preferences > Color Theme > **Superhuman**
+6. Optional: Use the recommended settings below for best experience
 
 ### For more information
 * [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
