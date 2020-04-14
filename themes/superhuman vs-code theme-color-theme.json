@@ -22,8 +22,8 @@
     "sideBar.background": "#27292d",
     "sideBar.border": "#010101",
 		"statusBar.background": "#a0a4d9",
-    "tab.activeBackground": "#1C2022",
-    "tab.border": "#111518",
+		"tab.activeBackground": "#1C2022",
+    "tab.border": "#27292d",
     "tab.inactiveBackground": "#111518",
     "titleBar.activeBackground": "#1C2022",
     "titleBar.border": "#111518",
@@ -453,7 +453,7 @@
       "name": "Markup Bold",
       "scope": ["markup.bold"],
       "settings": {
-        "foreground": "#D19A66",
+        "foreground": "#ffca33",
         "fontStyle": "bold"
       }
     },
@@ -758,7 +758,7 @@
       "name": "[VSCODE-CUSTOM] JSON Property Name",
       "scope": "support.type.property-name.json",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e8728d"
       }
     },
     {
@@ -1413,7 +1413,7 @@
       "name": "[VSCODE-CUSTOM] Markdown headings",
       "scope": "entity.name.section.markdown",
       "settings": {
-        "foreground": "#E06C75"
+        "foreground": "#e8728d"
       }
     },
     {
@@ -1484,7 +1484,7 @@
         "markup.underline.link.image.markdown"
       ],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#Ce9ce9"
       }
     },
     {
@@ -1494,7 +1494,7 @@
         "string.other.link.description.markdown"
       ],
       "settings": {
-        "foreground": "#61AFEF"
+        "foreground": "#72c0ea"
       }
     },
     {
