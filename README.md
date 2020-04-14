@@ -2,7 +2,7 @@
 
 [![Version](https://vsmarketplacebadge.apphb.com/version/ryan-renteria.superhuman.svg)](https://marketplace.visualstudio.com/items?itemName=ryan-renteria.superhuman)
 
-![Preview](https://raw.githubusercontent.com/hyperdonutloop/superhuman-theme/images/screenshot.png)
+![Preview](screenshot.png)
 
 # Installation
 
