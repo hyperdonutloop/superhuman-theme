@@ -296,7 +296,7 @@
       "name": "Support Type",
       "scope": ["support.type"],
       "settings": {
-        "foreground": "#56B6C2"
+        "foreground": "#72c0ea"
       }
     },
     {
@@ -695,14 +695,14 @@
       "name": "Source Python Keyword Operator Logical Python",
       "scope": ["source.python keyword.operator.logical.python"],
       "settings": {
-        "foreground": "#C678DD"
+        "foreground": "#a0a4d9"
       }
     },
     {
       "name": "Source Python Variable Parameter",
       "scope": ["source.python variable.parameter"],
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#ffca33"
       }
     },
     {
@@ -1259,7 +1259,7 @@
       "name": "[VSCODE-CUSTOM] Python Constants",
       "scope": "source.python constant",
       "settings": {
-        "foreground": "#D19A66"
+        "foreground": "#ce9ece"
       }
     },
     {
